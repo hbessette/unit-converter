@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units_array">
+        <item>Gallon</item>
+        <item>Litre</item>
+        <item>Yard</item>
+        <item>Meter</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+    </string-array>
+</resources>
